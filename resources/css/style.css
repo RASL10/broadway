@@ -4,15 +4,16 @@ body {
   font-family: helvetica;
 }
 header {
-  background: url("../images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
 }
-.nav{
-  color: White;
-  font-size: 18px;
-}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
+  color: white;
+}
+
+.btn-nav{
   color: white;
 }
 
@@ -37,9 +38,5 @@ p{
 footer{
   background color: dimgray;
   text-align: left;
-}
-#copyright{
-  font-size: 11px;
   color: white;
-
 }
