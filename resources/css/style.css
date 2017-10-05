@@ -15,6 +15,10 @@ h1 {
 header {
   color: white;
 }
+.btn, .btn:link, .btn:visited {
+color: white;
+font-size: 18px;
+}
 
 .background {
   background-image: url("../images/the-flatiron-building.png");
